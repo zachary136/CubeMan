@@ -1,5 +1,5 @@
 git init
 git add .
-git commit -m "update"
+git commit -m "normal update"
 git push origin master
 pause
